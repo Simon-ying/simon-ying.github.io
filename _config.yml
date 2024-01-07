@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuoye Ying / Personal Homepage"
+title                    : "Zhuoye Ying's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhuoye Ying"
 description              : &description "personal description"
