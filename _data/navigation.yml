@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: https://simon-ying.github.io/zhuoye_ying.github.io/files/Zhuoye_Resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/
