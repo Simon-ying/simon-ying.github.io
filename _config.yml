@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuoye Ying (应卓冶)"
+title                    : "Zhuoye Ying / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zhuoye Ying"
 description              : &description "personal description"
 url                      : https://simon-ying.github.io/zhuoye_ying.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhuoye Ying"
   avatar           : "profile.jpg"
-  bio              : "Welcome to Zhuoye Ying's personal website!\nBienvenue sur la page d'accueil de Zhuoye Ying!"
+  bio              : " "
   location         : 
   employer         :
   pubmed           : 
