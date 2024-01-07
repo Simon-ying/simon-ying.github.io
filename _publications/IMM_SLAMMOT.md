@@ -2,7 +2,7 @@
 title: "IMM-SLAMMOT : Tightly-Coupled SLAM and IMM-based Multi-Object Tracking"
 collection: publications
 permalink: /publication/IMM_SLAMMOT
-excerpt: 'Developed a SLAMMOT architecture based on IMM algorithm. Implemented IMM technique to enhance the Moving Object Tracking module's adaptability in complex real-world dynamic scenarios. Introduced a tightly coupled graph optimization module that aligns seamlessly with IMM algorithms, facilitating jointly optimization results of Odometry module and Moving Object Tracking module.'
+excerpt: ''
 date: 2023-12-22
 venue: 'IEEE Transactions on Intelligent Vehicles'
 paperurl: 'https://simon-ying.github.io/files/IMM-SLAMMOT__Tightly-Coupled_SLAM_and_IMM-based_Multi-Object_Tracking.pdf'
