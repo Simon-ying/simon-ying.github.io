@@ -21,7 +21,7 @@ In the context of autonomous driving systems, SLAM and dynamic object tracking r
 
 # BibTex
 
-```
+```bash
 @article{ying2023imm,
 
  title={IMM-SLAMMOT: Tightly-Coupled SLAM and IMM-based Multi-Object Tracking},
