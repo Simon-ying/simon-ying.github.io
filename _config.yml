@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhuoye Ying"
   avatar           : "profile.jpg"
-  bio              : "  "
+  bio              : "Welcome to Zhuoye Ying's personal website!\nBienvenue sur la page d'accueil de Zhuoye Ying!"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SZB3T0sAAAAJ&hl=zh-CN"
-  email            :
+  email            : "bonjour_mlle@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-6242-5402"
+  orcid            : "https://orcid.org/0009-0002-6242-5402"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
