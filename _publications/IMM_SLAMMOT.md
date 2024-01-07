@@ -5,7 +5,7 @@ permalink: /publication/IMM_SLAMMOT
 excerpt: ' '
 date: 2023-12-22
 venue: 'IEEE Transactions on Intelligent Vehicles'
-paperurl: 'https://simon-ying.github.io/zhuoye_ying.github.io/files/IMM-SLAMMOT__Tightly-Coupled_SLAM_and_IMM-based_Multi-Object_Tracking.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/10372112'
 citation: 'Zhuoye Ying and Hao Li. &quot;IMM-SLAMMOT : Tightly-Coupled SLAM and IMM-based Multi-Object Tracking&quot;. In: <i>IEEE Transactions on Intelligent Vehicles</i> (2023), pp. 1-11.'
 ---
 
