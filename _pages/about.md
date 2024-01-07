@@ -14,7 +14,6 @@ During 2020 to 2022, I participated in the double-diploma program between SPEIT 
 
 In my leisure hours, I indulge in sports like basketball, badminton, and fitness, showcasing my passion for an active lifestyle. Additionally, I possess proficiency in chinese calligraphy.
 
-You can find my CV here: [Zhuoye Ying's Curriculum Vitae](../files/Zhuoye_Resume.pdf).
+You can find my CV here: [Zhuoye Ying's Curriculum Vitae](https://simon-ying.github.io/zhuoye_ying.github.io/files/Zhuoye_Resume.pdf).
 
 [Email](bonjour_mlle@sjtu.edu.cn) | [Github](https://github.com/Simon-ying) | [Google Scholar](https://scholar.google.com/citations?user=SZB3T0sAAAAJ&hl=zh-CN)
-————————————————
